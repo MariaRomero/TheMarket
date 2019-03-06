@@ -9,7 +9,8 @@ import java.util.List;
 public class OffersService {
 
     public List<OfferResponse> getAllOffers() {
-
+        return List<OfferResponse> OfferResponse
     }
+
 
 }
